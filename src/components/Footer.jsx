@@ -2,7 +2,7 @@
 export default function Footer() {
   return (
     <footer>
-      &copy; 2026 Stride Recruiters. All rights reserved. | Email:{' '}
+      &copy; 2025 Stride Recruiters. All rights reserved. | Email:{" "}
       <a href="mailto:connect.striderecruiters@gmail.com">
         connect.striderecruiters@gmail.com
       </a>
